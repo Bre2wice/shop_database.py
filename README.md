@@ -1,4 +1,4 @@
-#What This Script Does
+## What This Script Does
 
 Creates three tables: User, Product, Order
 
@@ -6,7 +6,7 @@ Defines proper foreign keys and relationships
 
 Inserts sample users, products, and orders
 
-Demonstrates CRUD operations:
+## Demonstrates CRUD operations:
 
 Create: via session.add_all()
 
